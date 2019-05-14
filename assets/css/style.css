@@ -1,0 +1,41 @@
+#github {
+    width: 50px;
+}
+
+#linked {
+    width: 50px;
+}
+
+#name {
+    font-size: 84px !important;
+    /* color: #FFFFFF; */
+    font-family: 'Raleway', sans-serif;
+}
+
+#full-stack {
+    font-family: "Lato";
+    text-transform: uppercase;
+    letter-spacing: .2rem;
+}
+
+body {
+    background: url("../images/background.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+#info {
+    text-align: center;
+    position: relative;
+    top: 200px;
+}
+
+#description {
+    text-align: center;
+    position: relative;
+    top: 100px;
+    
+    
+
+}
